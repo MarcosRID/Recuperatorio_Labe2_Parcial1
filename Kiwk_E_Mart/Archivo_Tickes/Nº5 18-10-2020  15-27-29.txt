@@ -1,0 +1,10 @@
+cereales Krusty Udad.33 $3299,67
+
+Manaos Lima Udad.100 $5000
+
+Alfajor Aguila Udad.13 $780
+
+Coca cola Udad.75 $15000
+
+
+Precio total:  $24079,67
